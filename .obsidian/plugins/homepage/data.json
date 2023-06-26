@@ -2,7 +2,7 @@
   "version": 3,
   "homepages": {
     "Main Homepage": {
-      "value": "_",
+      "value": "README",
       "kind": "File",
       "openOnStartup": true,
       "hasRibbonIcon": true,
