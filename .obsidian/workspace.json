@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outils/VCS.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "outils/VCS.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "outils/VCS.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "outils/VCS.md"
+                "file": "README.md"
               }
             }
           }
@@ -173,10 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01a5b21f047d07dc",
+  "active": "244e01033eeeddd3",
   "lastOpenFiles": [
-    "README.md",
     "outils/VCS.md",
+    "outils/Computer.md",
+    "README.md",
     "langues",
     "outils",
     "_.md"

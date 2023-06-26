@@ -23,8 +23,11 @@ Languages and tools required to learn.
 | --------------- | ------------------------- |
 | [HTML](HTML.md) | HyperText Markup Language |
 | [CSS](CSS.md)           | Cascading Stylesheets     |
-| [JS](JS.md)     |                           |
-
+| [JS](JS.md)     |       JavaScript                    |
 
 
 ## Resources
+[CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+[The Odin Project](https://theodinproject.com)
+
+[Full Stack Open](https://fullstackopen.com/en/)
