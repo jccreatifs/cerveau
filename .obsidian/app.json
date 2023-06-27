@@ -25,5 +25,6 @@
     "table-editor-obsidian:center-align-column",
     "table-editor-obsidian:left-align-column",
     "table-editor-obsidian:right-align-column"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

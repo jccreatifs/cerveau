@@ -11,13 +11,13 @@ Obsidian is a note-taking app with notes that can be linked together, like the I
 For web development, you have to set up your local dev environment. It's the place where you write, run, and test codes.
 
 |           TOOLS           |                  DESCRIPTION                  |
-|:-------------------------:|:---------------------------------------------:|
-|  [Computer](Computer.md)  | You can't learn to program without a computer |
+|:-------------------------|:---------------------------------------------|
+|  [Computer](Computer.md)  | A simple computer with Linux installed.|
 | [Sublime Text](Editor.md) |        Any simple text-editor can do.         |
 |       [Git](VCS.md)       |            Version control system.            |
 
 
-Languages and tools required to learn.
+## Languages
 
 | LANGUAGE        | DESCRIPTION               |
 | --------------- | ------------------------- |
@@ -27,7 +27,8 @@ Languages and tools required to learn.
 
 
 ## Resources
-[CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+### Foundations
+[CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  
 [The Odin Project](https://theodinproject.com)
 
 [Full Stack Open](https://fullstackopen.com/en/)
