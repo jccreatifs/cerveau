@@ -12,18 +12,18 @@ For web development, you have to set up your local dev environment. It's the pla
 
 |           TOOLS           |                  DESCRIPTION                  |
 |:-------------------------|:---------------------------------------------|
-|  [Computer](Computer.md)  | A simple computer with Linux installed.|
-| [Sublime Text](Editor.md) |        Any simple text-editor can do.         |
-|       [Git](VCS.md)       |            Version control system.            |
+|  [Computer](outils/Computer.md)  | A simple computer with Linux installed.|
+| [Sublime Text](outils/Editor.md) |        Any simple text-editor can do.         |
+|       [Git](outils/VCS.md)       |            Version control system.            |
 
 
 ## Languages
 
 | LANGUAGE        | DESCRIPTION               |
 | --------------- | ------------------------- |
-| [HTML](HTML.md) | HyperText Markup Language |
-| [CSS](CSS.md)           | Cascading Stylesheets     |
-| [JS](JS.md)     |       JavaScript                    |
+| [HTML](langues/HTML.md) | HyperText Markup Language |
+| [CSS](langues/CSS.md)           | Cascading Stylesheets     |
+| [JS](langues/JS.md)     |       JavaScript                    |
 
 
 ## Resources

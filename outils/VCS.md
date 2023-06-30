@@ -28,16 +28,17 @@ To be able to upload or '*push*' your projects to a remote place like Github, yo
 
 ### Generating an ssh Key
 
-1. On the terminal, enter the text below:
-   ```shell
+1. On the terminal, enter the text below, but change the `mail@address.com` with your own:
+```shell
 ssh-keygen -t ed25519 -C "mail@address.com"
 ```
 
 2. Add your ssh key to ssh-agent:
-   ```shell
+```shell
 eval "$(ssh-agent -s)"
 ```
 
+3. Then add your SSH private key too:
 ```shell
 ssh-add ~/.ssh/id_ed25519
 ```
@@ -45,6 +46,7 @@ ssh-add ~/.ssh/id_ed25519
 Source: [Github Docs](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=linux)
 
 ### Adding ssh to Github
+
 1. Copy the public key to the clipboard:
 ```shell
 cat ~/.ssh/id_ed25519.pub
