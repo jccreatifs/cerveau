@@ -52,7 +52,7 @@ Source: [Github Docs](https://docs.github.com/en/authentication/connecting-to-gi
 cat ~/.ssh/id_ed25519.pub
 ```
 
-2. Navigate to your Github account >> Settings >> Access >> SSH and GPG keys.
+2. Navigate to your [Github account >> Settings >> Access >> SSH and GPG keys](https://github.com/settings/keys).
 3. Create a new key with your public key you just copied.
 4. Now, you can access your Github repositories with your machine via ssh. You may need to do this procedure on every device that you use to code.
 

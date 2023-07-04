@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dfb860d2cd882f21",
+        "id": "e4e2ac7774a334b3",
         "type": "tabs",
         "children": [
           {
-            "id": "1da68b351e0c37f5",
+            "id": "300e2464da00d195",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,13 +22,13 @@
             }
           },
           {
-            "id": "8130cfd496ee31a7",
+            "id": "7456756fa393186f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -163,11 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8130cfd496ee31a7",
+  "active": "7456756fa393186f",
   "lastOpenFiles": [
-    "outils/VCS.md",
+    "outils/Editor.md",
     "README.md",
     "langues/HTML.md",
+    "outils/VCS.md",
     "outils/Computer.md",
     "langues",
     "outils",
